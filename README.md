@@ -38,6 +38,9 @@ Basketball Stats Tracker is a web-based application built using Flask and SQLite
 - Rebounds
 - Assists
 - Fouls
+- technicals
+- 
 
 ## Purpose
 This application helps coaches, players, or teams track performance data and analyze player contributions over time.
+Also helps parents be able to track their players stats.
