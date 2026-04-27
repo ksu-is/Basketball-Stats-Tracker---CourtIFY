@@ -15,6 +15,17 @@ This project is a web-based Basketball Stats Tracker built using Flask and SQLit
 - Designed main dashboard page
 - Implemented templates for user interface
 
+## Sprint 3 (In Progress)
+- Added game statistics tracking
+- Created player detail pages
+- Implemented total points calculations
+- Improved UI with CSS styling
+
+## Sprint 4 (Planned)
+- Fix errors and debug application
+- Organize project folders correctly (templates/static)
+- Test application locally
+- Finalize GitHub submission
 
 ## Future Improvements
 - Add player editing and deletion
@@ -22,16 +33,8 @@ This project is a web-based Basketball Stats Tracker built using Flask and SQLit
 - Improve UI design
 - Add user authentication
 
-- Added game statistics tracking
-- Created player detail pages
-- Implemented total points calculations
-- Improved UI with CSS styling
-
-- Fixed TemplateNotFound errors
-- Organized project folders correctly (templates/static)
-- Tested application locally
-- Uploaded project to GitHub
-
-
 ## Reflection
 This project helped me understand how Flask connects backend logic with frontend templates and how proper file structure is critical for web applications. I also learned how to debug common errors and organize a full-stack application.
+
+## Update
+Updated roadmap to better reflect current sprint progress.
