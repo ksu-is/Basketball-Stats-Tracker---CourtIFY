@@ -1,0 +1,6 @@
+base.html
+templates/add_player.html
+templates/add_stats.html
+templates/base.html
+templates/index.html
+templates/player_detail.html
