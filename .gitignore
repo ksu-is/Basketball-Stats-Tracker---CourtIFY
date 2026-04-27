@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Database
+basketball_stats.db
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
