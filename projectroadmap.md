@@ -22,13 +22,11 @@ This project is a web-based Basketball Stats Tracker built using Flask and SQLit
 - Improve UI design
 - Add user authentication
 
-## Sprint 3 (Feature Expansion)
 - Added game statistics tracking
 - Created player detail pages
 - Implemented total points calculations
 - Improved UI with CSS styling
 
-## Sprint 4 (Debugging & Deployment)
 - Fixed TemplateNotFound errors
 - Organized project folders correctly (templates/static)
 - Tested application locally
